@@ -3,9 +3,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-// ibrahim halil GÜL 1190505047
-// Kitap sınıfı
-// Online Compilerde yaptım : "https://www.onlinegdb.com/"
+
 
 
 class Kitap {
